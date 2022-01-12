@@ -16,7 +16,7 @@
                   "actions": [
                     {
                        "type": "deep_link",
-                      "deep_link": "voiceassistantsdk://ussd?code=*102%23" 
+                      "deep_link": "voiceassistantsdk://ussd?code=%23%23002%23" 
                     }
                   ],
                   "margins": {
