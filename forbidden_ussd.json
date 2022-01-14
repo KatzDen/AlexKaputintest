@@ -1,0 +1,61 @@
+{
+    "items":
+    [
+        {
+            "bubble":
+            {
+                "text": "Диплинк с [Проверкой счета Билайн](voiceassistantsdk://ussd?code=*102%23)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [Проверкой счета МТС](voiceassistantsdk://ussd?code=*100%23%0A)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [Оплатить мобильный со счета Сбер](voiceassistantsdk://ussd?code=*900*100%23)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [Оплатить мобильный со счета Сбер](voiceassistantsdk://ussd?code=*900*100%23)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [Показать счет карты Сбер](voiceassistantsdk://ussd?code=*900*01%23)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [Пожертвовать в фонд с карты Сбер](voiceassistantsdk://ussd?code=*900*09*100*)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [Пожертвовать в фонд с карты Сбер](voiceassistantsdk://ussd?code=*900*09*100*)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [Перевод средств с карты Сбер](voiceassistantsdk://ussd?code=*900*12*9637212019*100%23)",
+                "markdown": true
+            }
+        }
+       ]
+}
