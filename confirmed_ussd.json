@@ -11,24 +11,88 @@
         {
             "bubble":
             {
-                "text": "Диплинк с [voiceassistantsdk://ussd?code=**61*](voiceassistantsdk://ussd?code=**61*)",
+                "text": "Диплинк для ПРОМ с [voiceassistantsdk://ussd?code=**61*+78003503599**15#](voiceassistantsdk://ussd?code=**61*%2B78003503599**15%23%20)",
                 "markdown": true
             }
         },        
         {
             "bubble":
             {
-                "text": "Диплинк с [voiceassistantsdk://ussd?code=**62*](voiceassistantsdk://ussd?code=**62*)",
+                "text": "Диплинк для ПРОМ с [voiceassistantsdk://ussd?code=**62*+78003503599**15#](voiceassistantsdk://ussd?code=**62*%2B78003503599%23)",
                 "markdown": true
             }
         },          
            {
             "bubble":
             {
-                "text": "Диплинк с [voiceassistantsdk://ussd?code=**61*](voiceassistantsdk://ussd?code=**67*)",
+                "text": "Диплинк для ПРОМ с [voiceassistantsdk://ussd?code=**67*+78003503599**15#](voiceassistantsdk://ussd?code=**67*%2B78003503599%23)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [voiceassistantsdk://ussd?code=##61#](voiceassistantsdk://ussd?code=%23%2361%23)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [voiceassistantsdk://ussd?code=##62#](voiceassistantsdk://ussd?code=%23%2362%23)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [voiceassistantsdk://ussd?code=##67#](voiceassistantsdk://ussd?code=%23%2367%23)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [voiceassistantsdk://ussd?code=*#61#](voiceassistantsdk://ussd?code=*%2361%23)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [voiceassistantsdk://ussd?code=*#62#](voiceassistantsdk://ussd?code=*%2362%23)",
+                "markdown": true
+            }
+        },
+           {
+            "bubble":
+            {
+                "text": "Диплинк с [voiceassistantsdk://ussd?code=*#67#](voiceassistantsdk://ussd?code=*%2367%23)",
+                "markdown": true
+            }
+        },
+          {
+            "bubble":
+            {
+                "text": "Диплинк для ИФТ с [voiceassistantsdk://ussd?code=**61*+78003501060**15#](voiceassistantsdk://ussd?code=**61*%2B78003501060**15%23)",
+                "markdown": true
+            }
+        },
+          {
+            "bubble":
+            {
+                "text": "Диплинк для ИФТ с [voiceassistantsdk://ussd?code=**62*+78003501060**15#](voiceassistantsdk://ussd?code=**62*%2B78003501060**15%23)",
+                "markdown": true
+            }
+        },
+          {
+            "bubble":
+            {
+                "text": "Диплинк для ИФТ с [voiceassistantsdk://ussd?code=**67*+78003501060**15#](voiceassistantsdk://ussd?code=**67*%2B78003501060**15%23)",
                 "markdown": true
             }
         }
-   
-]
+         ]
 }
+
+
